@@ -1,6 +1,7 @@
 /**
  * Created by stevenchun on 6/8/16.
  */
+//Code from Meteor.js tutorial
 import React, { Component, PropTypes } from 'react';
 import ReactDOM from 'react-dom';
 import {createContainer } from 'meteor/react-meteor-data';
