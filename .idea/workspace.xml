@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8584063b-203e-401a-87d6-39d24ee6d348" name="Default" comment="" />
+    <list default="true" id="8584063b-203e-401a-87d6-39d24ee6d348" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imports/ui/App.js" afterPath="$PROJECT_DIR$/imports/ui/App.js" />
+    </list>
     <ignored path="simple-todos.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,13 +25,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imports/ui/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="30">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding>
-                <element signature="e#75#127#0" expanded="true" />
+                <element signature="e#104#156#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasks.tests.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tasks.tests.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imports/api/tasks.tests.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -117,8 +119,8 @@
         <option value="$PROJECT_DIR$/client/main.js" />
         <option value="$PROJECT_DIR$/imports/ui/Task.js" />
         <option value="$PROJECT_DIR$/imports/api/tasks.js" />
-        <option value="$PROJECT_DIR$/imports/ui/App.js" />
         <option value="$PROJECT_DIR$/imports/api/tasks.tests.js" />
+        <option value="$PROJECT_DIR$/imports/ui/App.js" />
       </list>
     </option>
   </component>
@@ -724,12 +726,12 @@
       <workItem from="1470166664995" duration="4393000" />
       <workItem from="1471116036700" duration="2976000" />
       <workItem from="1471982253728" duration="8156000" />
-      <workItem from="1472510637383" duration="1460000" />
+      <workItem from="1472510637383" duration="2065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28901000" />
+    <option name="totallyTimeSpent" value="29506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="736" extended-state="6" />
@@ -812,7 +814,7 @@
         <state relative-caret-position="1020">
           <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
           <folding>
-            <element signature="e#75#127#0" expanded="true" />
+            <element signature="e#104#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -892,7 +894,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#75#127#0" expanded="true" />
+            <element signature="e#104#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -937,7 +939,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#75#127#0" expanded="true" />
+            <element signature="e#104#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -997,7 +999,7 @@
         <state relative-caret-position="225">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="e#75#127#0" expanded="true" />
+            <element signature="e#104#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1056,7 +1058,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#75#127#0" expanded="true" />
+            <element signature="e#104#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1101,7 +1103,7 @@
         <state relative-caret-position="240">
           <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
           <folding>
-            <element signature="e#75#127#0" expanded="true" />
+            <element signature="e#104#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1175,16 +1177,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imports/ui/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-          <folding>
-            <element signature="e#75#127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.meteor/local/dev_bundle/lib/node_modules/cordova-lib/node_modules/npm/html/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1229,6 +1221,16 @@
         <state relative-caret-position="75">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="51" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#104#156#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
